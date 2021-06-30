@@ -16,7 +16,7 @@ const IndexPage = () => (
       width={150}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
-      alt="A Gatsby astronaut"
+      alt="Azure ML"
       style={{ marginBottom: `1.45rem` }}
     />
       </Layout>
