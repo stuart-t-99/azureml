@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>Key Azure ML training resources</h1>
+    <h1>Starting with Azure ML</h1>
     <p>https://github.com/Azure/MachineLearningNotebooks/</p>
     <p>https://github.com/MicrosoftLearning/ms-learn-dp100</p>
     <StaticImage
