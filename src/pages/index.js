@@ -9,9 +9,9 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
     <h1>Key learning resources</h1>
-    <a href="https://github.com/Azure/MachineLearningNotebooks/">Azure ML Notebooks</a>
+    <a href="https://github.com/Azure/MachineLearningNotebooks/">https://github.com/Azure/MachineLearningNotebooks/</a>
     <p> </p>
-    <a href="https://github.com/MicrosoftLearning/mslearn-dp100/">MS Learn DP-100</a>  
+    <a href="https://github.com/MicrosoftLearning/mslearn-dp100/">https://github.com/MicrosoftLearning/mslearn-dp100</a>  
     <p></p>
     <StaticImage
       src="../images/azureml.png"
