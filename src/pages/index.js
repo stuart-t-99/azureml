@@ -13,7 +13,7 @@ const IndexPage = () => (
     <p>https://github.com/MicrosoftLearning/ms-learn-dp100</p>
     <StaticImage
       src="../images/azureml.png"
-      width={300}
+      width={150}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
       alt="A Gatsby astronaut"
