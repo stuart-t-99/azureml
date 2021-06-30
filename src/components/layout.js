@@ -39,7 +39,8 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-           </a>
+                  
+          <a href="https://www.gatsbyjs.com">Gatsby</a>
         </footer>
       </div>
     </>
