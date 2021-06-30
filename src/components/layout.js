@@ -40,7 +40,7 @@ const Layout = ({ children }) => {
           }}
         >
                   
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <a href="https://www.gatsbyjs.com"></a>
         </footer>
       </div>
     </>
