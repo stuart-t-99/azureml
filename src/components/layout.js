@@ -39,9 +39,7 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+           </a>
         </footer>
       </div>
     </>
