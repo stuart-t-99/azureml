@@ -21,9 +21,9 @@ const IndexPage = () => (
     <a href="https://github.com/Azure/MachineLearningNotebooks/">AzureML Python SDK notebooks repository</a><p> </p>
     <a href="https://github.com/MicrosoftLearning/mslearn-dp100/">Microsoft Learn DP-100</a><p></p>
     <a href="https://azure.github.io/azureml-cheatsheets/">AzureML cheatsheets/</a><p></p>
-    
+    <p></p>
     <h2>MLOps</h2>
-    <a href="https://github.com/microsoft/MLOps/">End to end MLOps</a><p></p>
+    <a href="https://github.com/microsoft/MLOps/">End to end MLOps repository</a><p></p>
   
   
       </Layout>
