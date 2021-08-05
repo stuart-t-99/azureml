@@ -10,7 +10,7 @@ const IndexPage = () => (
     <Seo title="Home" />
   <StaticImage
       src="../images/azureml.png"
-      width={75}
+      width={50}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
       alt="Azure ML"
