@@ -16,15 +16,14 @@ const IndexPage = () => (
       alt="Azure ML"
       style={{ marginBottom: `1.45rem` }}
     />
-  
-  
-  <h1>Key learning resources</h1>
+    
     <h2>Starting with AzureML</h2>
-    <a href="https://github.com/Azure/MachineLearningNotebooks/">ttps://github.com/Azure/MachineLearningNotebooks</a><p> </p>
-    <a href="https://github.com/MicrosoftLearning/mslearn-dp100/">ttps://github.com/MicrosoftLearning/mslearn-dp100</a><p></p>
-    <a href="https://azure.github.io/azureml-cheatsheets/">s://azure.github.io/azureml-cheatsheets/</a><p></p>
-    <h2>MLOps examples</h2>
-    <a href="https://github.com/microsoft/MLOps/">https://github.com/microsoft/MLOps</a><p></p>
+    <a href="https://github.com/Azure/MachineLearningNotebooks/">AzureML Python SDK notebooks repository</a><p> </p>
+    <a href="https://github.com/MicrosoftLearning/mslearn-dp100/">Microsoft Learn DP-100</a><p></p>
+    <a href="https://azure.github.io/azureml-cheatsheets/">AzureML cheatsheets/</a><p></p>
+    
+    <h2>MLOps</h2>
+    <a href="https://github.com/microsoft/MLOps/">End to end MLOps</a><p></p>
   
   
       </Layout>
